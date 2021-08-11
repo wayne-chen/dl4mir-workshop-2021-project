@@ -1,0 +1,6 @@
+[submodule "open-unmix-pytorch"]
+	path = open-unmix-pytorch
+	url = git@github.com:sigsep/open-unmix-pytorch
+[submodule "Conv-TasNet"]
+	path = Conv-TasNet
+	url = git@github.com:naplab/Conv-TasNet
