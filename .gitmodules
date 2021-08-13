@@ -7,3 +7,6 @@
 [submodule "wav2midi"]
 	path = wav2midi
 	url = git@github.com:mrk21/wav2midi
+[submodule "python-midi"]
+	path = python-midi
+	url = git@github.com:vishnubob/python-midi
