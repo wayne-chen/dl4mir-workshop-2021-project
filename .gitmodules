@@ -4,3 +4,6 @@
 [submodule "transformer-gan"]
 	path = transformer-gan
 	url = git@github.com:amazon-research/transformer-gan
+[submodule "wav2midi"]
+	path = wav2midi
+	url = git@github.com:mrk21/wav2midi
